@@ -70,8 +70,9 @@
                     </div>
                   </div>
                 </div>
-                
+                               
                 <div class="card-footer">
+                  <h1>hello</h1>
                   <input type="submit" class="btn btn-info" value="Sign in"/>
                   <a href="loginform.php" type="submit" class="btn btn-default float-right">Cancel</a>
                 </div>
